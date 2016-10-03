@@ -2,7 +2,6 @@
 #
 # Description: Parses a line of ARGOS tracking data 
 #
-# Created on: Oct 2012
 # Created by: Yifu Wang (yw167@duke.edu)
 # Created on: Oct 2016
 
